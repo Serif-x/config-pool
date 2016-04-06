@@ -1,0 +1,201 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="EB-Mall" values="1.8" collectionTime="1449740236099" />
+      <project id="Fisher-Logistics" values="1.8" collectionTime="1448588593426" />
+      <project id="Supplier-center" values="1.8" collectionTime="1447933147696" />
+      <project id="EB-static" values="1.8" collectionTime="1446639488630" />
+      <project id="My-Bonded-warehouse" values="1.8" collectionTime="1445425784819" />
+      <project id="项目-B2B" values="1.8" collectionTime="1450408524283" />
+      <project id="dist" values="1.8" collectionTime="1446812944083" />
+      <project id="保税购-官网" values="1.8" collectionTime="1450508444147" />
+      <project id="EB-WAP" values="1.8" collectionTime="1450344876986" />
+    </group>
+    <group name="JSDebugConfig">
+      <project id="项目-B2B" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1450408524525" />
+      <project id="EB-static" values="browser-default.preferredEngine-null.no_mappings,browser-default.preferredEngine-null.no_mappings" collectionTime="1446639488671" />
+      <project id="dist" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1446812944088" />
+      <project id="structboard" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1450495218429" />
+      <project id="EB-WAP" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1450344877121" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Supplier-center" values="ECMAScript 5.1" collectionTime="1447933147696" />
+      <project id="dist" values="DEFAULT" collectionTime="1446812944084" />
+      <project id="Fisher-Logistics" values="ECMAScript 5.1" collectionTime="1448588593427" />
+      <project id="整理静态页面" values="ECMAScript 5.1" collectionTime="1449726887055" />
+      <project id="My-Bonded-warehouse" values="DEFAULT" collectionTime="1445425784819" />
+      <project id="EB-Mall" values="ECMAScript 5.1" collectionTime="1449740236099" />
+      <project id="YTones-diy" values="DEFAULT" collectionTime="1446821459563" />
+      <project id="WebStorm-Design" values="ECMAScript 5.1" collectionTime="1447644070054" />
+      <project id="EB-static" values="DEFAULT" collectionTime="1446639488632" />
+      <project id="structboard" values="ECMAScript 5.1" collectionTime="1450495218413" />
+      <project id="processLine" values="ECMAScript 5.1" collectionTime="1449624154642" />
+      <project id="easy-boilerplate" values="ECMAScript 5.1" collectionTime="1450173887182" />
+      <project id="渔夫宝典" values="DEFAULT" collectionTime="1446012012575" />
+      <project id="CodePen" values="ECMAScript 5.1" collectionTime="1450495218408" />
+      <project id="EB-WAP" values="ECMAScript 5.1" collectionTime="1450344876988" />
+      <project id="css-transform" values="ECMAScript 5.1" collectionTime="1450407020341" />
+      <project id="保税购-官网" values="ECMAScript 5.1" collectionTime="1450508444149" />
+      <project id="项目-B2B" values="ECMAScript 5.1" collectionTime="1450408524285" />
+    </group>
+    <group name="module type">
+      <project id="Supplier-center" values="WEB_MODULE" collectionTime="1447933147693" />
+      <project id="dist" values="WEB_MODULE" collectionTime="1446812944072" />
+      <project id="Fisher-Logistics" values="WEB_MODULE" collectionTime="1448588593392" />
+      <project id="整理静态页面" values="WEB_MODULE" collectionTime="1449726887039" />
+      <project id="My-Bonded-warehouse" values="WEB_MODULE" collectionTime="1445425784815" />
+      <project id="EB-Mall" values="WEB_MODULE" collectionTime="1449740236097" />
+      <project id="YTones-diy" values="WEB_MODULE" collectionTime="1446821459523" />
+      <project id="WebStorm-Design" values="WEB_MODULE" collectionTime="1447644069457" />
+      <project id="EB-static" values="WEB_MODULE" collectionTime="1446639488554" />
+      <project id="structboard" values="WEB_MODULE" collectionTime="1450495218409" />
+      <project id="processLine" values="WEB_MODULE" collectionTime="1449624154635" />
+      <project id="easy-boilerplate" values="WEB_MODULE" collectionTime="1450173887005" />
+      <project id="渔夫宝典" values="WEB_MODULE" collectionTime="1446012012572" />
+      <project id="CodePen" values="WEB_MODULE" collectionTime="1450495218382" />
+      <project id="EB-WAP" values="WEB_MODULE" collectionTime="1450344876967" />
+      <project id="css-transform" values="WEB_MODULE" collectionTime="1450407020334" />
+      <project id="保税购-官网" values="WEB_MODULE" collectionTime="1450508444140" />
+      <project id="项目-B2B" values="WEB_MODULE" collectionTime="1450408524209" />
+    </group>
+    <group name="vcs">
+      <project id="Supplier-center" values="svn" collectionTime="1447933147693" />
+      <project id="dist" values="svn" collectionTime="1446812944071" />
+      <project id="Fisher-Logistics" values="svn" collectionTime="1448588593391" />
+      <project id="YTones-diy" values="Git" collectionTime="1446821459522" />
+      <project id="My-Bonded-warehouse" values="svn" collectionTime="1445425784815" />
+      <project id="EB-Mall" values="svn" collectionTime="1449740236097" />
+      <project id="WebStorm-Design" values="Git" collectionTime="1447644069456" />
+      <project id="EB-static" values="svn" collectionTime="1446639488552" />
+      <project id="structboard" values="Git" collectionTime="1450495218408" />
+      <project id="easy-boilerplate" values="Git" collectionTime="1450173887003" />
+      <project id="CodePen" values="Git" collectionTime="1450495218378" />
+      <project id="EB-WAP" values="svn" collectionTime="1450344876966" />
+      <project id="保税购-官网" values="svn" collectionTime="1450508444140" />
+      <project id="项目-B2B" values="svn" collectionTime="1450408524209" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="保税购-官网" values="js.build_tools.grunt" collectionTime="1450508444140" />
+      <project id="EB-WAP" values="ChromiumRemoteDebugType" collectionTime="1450344876968" />
+      <project id="Fisher-Logistics" values="js.build_tools.grunt" collectionTime="1448588593392" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="项目-B2B" values="JavascriptDebugType" collectionTime="1450408524210" />
+      <project id="YTones-diy" values="NodeJSConfigurationType" collectionTime="1446821459524" />
+      <project id="EB-static" values="JavascriptDebugType" collectionTime="1446639488555" />
+      <project id="dist" values="NodeJSConfigurationType,JavascriptDebugType" collectionTime="1446812944072" />
+      <project id="structboard" values="JavascriptDebugType" collectionTime="1450495218409" />
+      <project id="EB-WAP" values="JavascriptDebugType" collectionTime="1450344876968" />
+    </group>
+    <group name="file-type">
+      <project id="Supplier-center" values="Images,TypeScript,CSS,UNKNOWN,SCSS,Stylus,Native,SourceMap,XML,PLAIN_TEXT,PHP,ASP,JavaScript,C#,HTML,JSON,Markdown,Less,Git file" collectionTime="1447933147696" />
+      <project id="dist" values="SourceMap,XML,Images,CSS,JSON,UNKNOWN,PLAIN_TEXT,JavaScript,HTML" collectionTime="1446812944082" />
+      <project id="Fisher-Logistics" values="JSON,Markdown,XML,PLAIN_TEXT,Less,UNKNOWN,Images,SourceMap,HTML,CSS,Ignore file,JavaScript" collectionTime="1448588593419" />
+      <project id="整理静态页面" values="HTML,UNKNOWN,Images,CSS,PLAIN_TEXT,XML,JSON,JavaScript" collectionTime="1449726887053" />
+      <project id="My-Bonded-warehouse" values="Images,Git file,XML,HTML,TypeScript,JSON,ARCHIVE,CSS,Native,Less,Stylus,PLAIN_TEXT,SourceMap,UNKNOWN,JavaScript,SCSS,YAML,Markdown" collectionTime="1445425784819" />
+      <project id="EB-Mall" values="HTML,XHTML,UNKNOWN,PLAIN_TEXT,Ignore file,XML,TypeScript,Markdown,Git file,CoffeeScript,Images,CSS,SourceMap,JSON,JavaScript" collectionTime="1449740236098" />
+      <project id="YTones-diy" values="CSS,JavaScript,XML,PLAIN_TEXT,UNKNOWN,HTML,Images" collectionTime="1446821459529" />
+      <project id="WebStorm-Design" values="PLAIN_TEXT,XML,CoffeeScript,SourceMap,TypeScript,JavaScript,ARCHIVE,XHTML,HTML,UNKNOWN" collectionTime="1447644069462" />
+      <project id="EB-static" values="Git file,JSON,JSHint,XML,PLAIN_TEXT,UNKNOWN,CSS,ARCHIVE,Markdown,Images,Jade,YAML,Stylus,Less,JavaScript,SourceMap,HTML,JSCS" collectionTime="1446639488585" />
+      <project id="structboard" values="HTML,SourceMap,Git file,Ignore file,XML,JavaScript,PLAIN_TEXT,Images,XHTML,JSON,CoffeeScript,CSS,Markdown,TypeScript,UNKNOWN" collectionTime="1450495218410" />
+      <project id="processLine" values="HTML,XML,UNKNOWN,JavaScript,CSS,JSON,PLAIN_TEXT,Images" collectionTime="1449624154640" />
+      <project id="easy-boilerplate" values="JSON,PLAIN_TEXT,UNKNOWN,Ignore file,HTML,Less,CSS,Images,SourceMap,Git file,Markdown,JavaScript,XML" collectionTime="1450173887065" />
+      <project id="渔夫宝典" values="XML,JavaScript,HTML,PLAIN_TEXT,CSS,UNKNOWN" collectionTime="1446012012574" />
+      <project id="CodePen" values="XML,Ignore file,SourceMap,UNKNOWN,Git file,PLAIN_TEXT,CSS,Images,Markdown,HTML,JavaScript,JSON" collectionTime="1450495218399" />
+      <project id="EB-WAP" values="Git file,Images,UNKNOWN,CSS,Native,Markdown,JavaScript,JSON,SourceMap,HTML,Ignore file,XML,PLAIN_TEXT" collectionTime="1450344876976" />
+      <project id="css-transform" values="CSS,UNKNOWN,JavaScript,HTML" collectionTime="1450407020339" />
+      <project id="保税购-官网" values="JSON,JavaScript,PLAIN_TEXT,SourceMap,CSS,Images,Ignore file,UNKNOWN,XML,Less,HTML,Markdown" collectionTime="1450508444146" />
+      <project id="项目-B2B" values="Git file,HTML,Markdown,UNKNOWN,PHP,JavaScript,SourceMap,JSON,CSS,XML,Images" collectionTime="1450408524250" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Supplier-center" values="Project,Project" collectionTime="1447933147696" />
+      <project id="dist" values="Project,Project" collectionTime="1446812944084" />
+      <project id="Fisher-Logistics" values="Project,Project,Directory" collectionTime="1448588593427" />
+      <project id="整理静态页面" values="Project,Project" collectionTime="1449726887055" />
+      <project id="My-Bonded-warehouse" values="Project,Project" collectionTime="1445425784819" />
+      <project id="EB-Mall" values="Project,Project" collectionTime="1449740236099" />
+      <project id="YTones-diy" values="Project,Project" collectionTime="1446821459563" />
+      <project id="WebStorm-Design" values="Project,Project" collectionTime="1447644070054" />
+      <project id="EB-static" values="Project,Project" collectionTime="1446639488631" />
+      <project id="structboard" values="Project,Project" collectionTime="1450495218413" />
+      <project id="processLine" values="Project,Project" collectionTime="1449624154642" />
+      <project id="easy-boilerplate" values="Directory,Project,Project" collectionTime="1450173887182" />
+      <project id="渔夫宝典" values="Project,Project" collectionTime="1446012012575" />
+      <project id="CodePen" values="Project,Project" collectionTime="1450495218408" />
+      <project id="EB-WAP" values="Project,Directory,Project" collectionTime="1450344876988" />
+      <project id="css-transform" values="Project,Project" collectionTime="1450407020341" />
+      <project id="保税购-官网" values="Directory,Project,Project" collectionTime="1450508444149" />
+      <project id="项目-B2B" values="Project,Project" collectionTime="1450408524285" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="Fisher-Logistics" values="node_modules" collectionTime="1448588593427" />
+      <project id="easy-boilerplate" values="node_modules" collectionTime="1450173887181" />
+      <project id="保税购-官网" values="node_modules" collectionTime="1450508444149" />
+      <project id="EB-WAP" values="node_modules" collectionTime="1450344876987" />
+    </group>
+    <group name="Git">
+      <project id="EB-WAP" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1450344876985" />
+      <project id="easy-boilerplate" values="config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1450173887163" />
+      <project id="项目-B2B" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1450408524283" />
+      <project id="CodePen" values="config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,data.remotes.in.project.1,config.save.policy.STASH,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1450495218406" />
+      <project id="保税购-官网" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1450508444147" />
+      <project id="structboard" values="data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED" collectionTime="1450495218413" />
+      <project id="css-transform" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1450407020341" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="3" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="OpenInBrowser.Internet Explorer" count="1" />
+      <entry feature="OpenInBrowser.default" count="151" />
+      <entry feature="execute.JavascriptDebugType.Run" count="1" />
+      <entry feature="execute.js.build_tools.grunt.Run" count="248" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.refactoring.moveFile" count="1" />
+      <entry feature="ide.settings.Appearance" count="30" />
+      <entry feature="ide.settings.CSS" count="14" />
+      <entry feature="ide.settings.Code_Completion" count="5" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="10" />
+      <entry feature="ide.settings.CoffeeScript" count="3" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Dart" count="3" />
+      <entry feature="ide.settings.EJS" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.External_Tools" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="14" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="16" />
+      <entry feature="ide.settings.Gherkin" count="3" />
+      <entry feature="ide.settings.HAML" count="3" />
+      <entry feature="ide.settings.HTML" count="6" />
+      <entry feature="ide.settings.Images" count="1" />
+      <entry feature="ide.settings.JSLint" count="2" />
+      <entry feature="ide.settings.JSON" count="3" />
+      <entry feature="ide.settings.JS_Toolbox" count="2" />
+      <entry feature="ide.settings.Jade" count="2" />
+      <entry feature="ide.settings.JavaScript" count="10" />
+      <entry feature="ide.settings.Language_Defaults" count="4" />
+      <entry feature="ide.settings.Less" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="7" />
+      <entry feature="ide.settings.Markdown" count="5" />
+      <entry feature="ide.settings.MultiMarkdown" count="2" />
+      <entry feature="ide.settings.SCSS" count="3" />
+      <entry feature="ide.settings.Sass" count="3" />
+      <entry feature="ide.settings.Stylus" count="3" />
+      <entry feature="ide.settings.TypeScript" count="3" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ide.settings.XML" count="3" />
+      <entry feature="ideaapp.started" count="71" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="tips.of.the.day.next" count="192" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+    </counts>
+  </component>
+</application>

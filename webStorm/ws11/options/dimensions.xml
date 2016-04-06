@@ -1,0 +1,68 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="952" y="334" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="864" y="330" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="SettingsEditor.0.0.1920.1080" x="635" y="192" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1520" y="271" />
+    <location key="#Custom_Plugin_Repositories.0.0.1920.1080" x="1000" y="441" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="741" y="150" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="923" y="350" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" x="917" y="330" />
+    <location key="StructurePopup.0.0.1920.1080" x="1193" y="283" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="783" y="168" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="723" y="177" />
+    <location key="findTextDialog.0.0.1920.1080" x="749" y="159" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="729" y="148" />
+    <location key="#com.intellij.ide.macro.MacrosDialog.0.0.1920.1080" x="786" y="193" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="686" y="242" />
+    <location key="#JSLint.0.0.1920.1080" x="995" y="238" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="946" y="339" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="800" y="619" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="941" y="371" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="1022" y="296" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="182" y="110" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="986" y="380" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="1056" y="331" />
+    <location key="git4idea.ui.GitResetDialog.0.0.1920.1080" x="1031" y="493" />
+    <location key="#Live_Templates.0.0.1920.1080" x="939" y="171" />
+    <location key="#Updates.0.0.1920.1080" x="974" y="461" />
+    <location key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog.0.0.1920.1080" x="823" y="498" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="761" y="390" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="799" y="269" />
+    <location key="#cssmin.0.0.1920.1080" x="934" y="238" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="1078" y="360" />
+    <location key="#uglify:dist.0.0.1920.1080" x="600" y="269" />
+    <location key="#uglify.0.0.1920.1080" x="696" y="202" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="939" y="407" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1080" x="999" y="392" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080" x="1045" y="468" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.1920.1080" x="1046" y="326" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="929" y="406" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="790" y="129" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="917" y="319" />
+    <location key="scopes.0.0.1920.1080" x="1014" y="448" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="285" height="117" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="521" height="379" />
+    <size key="StructurePopup.0.0.1920.1080" width="135" height="368" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1176" height="729" />
+    <size key="javadoc.popup.0.0.1280.768" width="446" height="166" />
+    <size key="DiffContextDialog.0.0.1920.1080" width="1494" height="828" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="766" height="629" />
+    <size key="#Live_Templates.0.0.1920.1080" width="873" height="772" />
+    <size key="javadoc.popup.0.0.1920.1080" width="572" height="260" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="813" height="63" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="813" height="63" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="813" height="63" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="813" height="63" />
+    <size key="javadoc.popup.0.0.0.0" width="446" height="166" />
+    <size key="#cssmin.0.0.1920.1080" width="616" height="593" />
+    <size key="#uglify:dist.0.0.1920.1080" width="616" height="593" />
+    <size key="#uglify.0.0.1920.1080" width="616" height="593" />
+    <size key="EditParametersPopupWindow.0.0.1920.1080" width="342" height="306" />
+    <size key="javadoc.popup.0.0.1920.1080@192dpi" width="890" height="282" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+  </component>
+</application>

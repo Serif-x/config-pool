@@ -1,0 +1,94 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>less:</find>
+      <find>concat</find>
+      <find>keepSpecialComments</find>
+      <find>processImport</find>
+      <find>utils</find>
+      <find>core</find>
+      <find>&lt;a href=&quot;#&quot;&gt;投递简历&lt;/a&gt;</find>
+      <find>（若干名）</find>
+      <find>&lt;a href=&quot;mailto:lingfeng.xu@eb56.com&quot; class=&quot;post-act&quot;&gt;lingfeng.xu@eb56.com&lt;/a&gt;</find>
+      <find>.net</find>
+      <find>oracle</find>
+      <find>mySql</find>
+      <find>ecx</find>
+      <find>客服</find>
+      <find>\w+、</find>
+      <find />
+      <find>txt-c</find>
+      <find>font-weight: bold</find>
+      <find>txt</find>
+      <find>font-wei</find>
+      <find>.fl</find>
+      <find>绑定</find>
+      <find>微信账号绑定</find>
+      <find>office</find>
+      <find>swiper-slide</find>
+      <find>slideUp</find>
+      <find>static/css/themes/watsons/theme-watsons.css</find>
+      <find>static/css/common.css</find>
+      <find>phase-back</find>
+      <find>0px</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>data-tap-toggle=&quot;false&quot;</replace>
+      <replace>00A0A0</replace>
+      <replace>009b9b</replace>
+      <replace>static</replace>
+      <replace>icon</replace>
+      <replace>helper.css</replace>
+      <replace>icon eb-icon-prom1</replace>
+      <replace>../../static</replace>
+      <replace />
+      <replace>src/utilities</replace>
+      <replace>/components</replace>
+      <replace>/components/</replace>
+      <replace>letter-spacing: 0px;</replace>
+      <replace>letter-spacing: 0;</replace>
+      <replace>href=&quot;详情页.html&quot; target=&quot;_blank&quot;</replace>
+      <replace>zh-cmn-Hans</replace>
+      <replace>&lt;span class=&quot;start&quot;&gt;2015-12-10&lt;/span&gt; 至 &lt;span class=&quot;end&quot;&gt;2015-12-31&lt;/span&gt;</replace>
+      <replace>.clearfix</replace>
+      <replace>&lt;a href=&quot;mailto:lingfeng.xu@eb56.com&quot; class=&quot;post-act&quot;&gt;lingfeng.xu@eb56.com&lt;/a&gt;</replace>
+      <replace>&lt;b class=&quot;post-num&quot;&gt;（若干名）&lt;/b&gt;&lt;a href=&quot;mailto:lingfeng.xu@eb56.com&quot; class=&quot;post-act&quot;&gt;lingfeng.xu@eb56.com&lt;/a&gt;</replace>
+      <replace>&lt;a href=&quot;mailto:lingfeng.xu@eb56.com&quot; class=&quot;post-act&quot;&gt;投递简历&lt;/a&gt;</replace>
+      <replace>.NET</replace>
+      <replace>Oracle</replace>
+      <replace>MySQL</replace>
+      <replace>Office</replace>
+      <replace>&lt;h3&gt;</replace>
+      <replace>static/cooperate/watsons/css/theme-watsons.css</replace>
+      <replace>static/cooperate/watsons/css/common.css</replace>
+      <replace>dice-1</replace>
+      <replace>0</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Projects\EB\前端\My-Bonded-warehouse</dir>
+      <dir>E:\UserData\Desktop\DEMO\structboard\components\plugins\vendors</dir>
+      <dir>E:\UserData\Desktop\DEMO\structboard\components\plugins\Vendors</dir>
+      <dir>E:\UserData\Desktop\DEMO\structboard</dir>
+      <dir>E:\Projects\EB\前端\项目-B2B</dir>
+      <dir>E:\UserData\Desktop\YT\YTones-diy</dir>
+      <dir>E:\UserData\Desktop\YT\YTones-diy\js</dir>
+      <dir>E:\UserData\Desktop\DEMO\structboard\components\common</dir>
+      <dir>E:\UserData\Desktop\DEMO\structboard\components\utilities</dir>
+      <dir>E:\Projects\EB\前端\EB-WAP</dir>
+      <dir>E:\Projects\EB\前端\EB-WAP\dist\卖家</dir>
+      <dir>E:\Projects\EB\前端\EB-Mall</dir>
+      <dir>E:\Projects\EB\前端\EB-Mall\dist\user</dir>
+      <dir>E:\Projects\EB\前端\Fisher-Logistics</dir>
+      <dir>E:\Projects\EB\前端\保税购-官网\src\components</dir>
+      <dir>E:\Projects\EB\前端\保税购-官网\dist</dir>
+      <dir>E:\UserData\Desktop\整理静态页面\Static</dir>
+      <dir>E:\UserData\Desktop\整理静态页面</dir>
+      <dir>E:\UserData\Desktop\GitHub\easy-boilerplate</dir>
+      <dir>E:\Projects\EB\前端\项目-B2B\货源精选</dir>
+      <dir>E:\Projects\EB\前端\保税购-官网\src</dir>
+      <dir>E:\Projects\EB\前端\保税购-官网</dir>
+      <dir>E:\Projects\EB\前端\EB-WAP\dist</dir>
+      <dir>E:\Projects\EB\前端\EB-WAP\dist\买家</dir>
+    </dirStrings>
+  </component>
+</application>
