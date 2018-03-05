@@ -84,8 +84,8 @@
 
 	//-------- Sync Settings configuration --------
 
-	"sync.gist": "952eb2b1a1c6ae677af867e1c916db1b",
-	"sync.lastUpload": "2018-03-01T07:37:00.023Z",
+	"sync.gist": "",
+	"sync.lastUpload": "",
 	"sync.autoDownload": false,
 	"sync.autoUpload": true,
 	"sync.lastDownload": "",
