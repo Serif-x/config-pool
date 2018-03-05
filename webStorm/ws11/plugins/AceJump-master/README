@@ -1,4 +1,0 @@
-Fix bug #41 and #39 for Intellij v13.1.1 (build 135.480)
-
-Put **the content** of AceJump.zip to .IdeaIC13/config/plugins/ or .IntellijIdea13/config/plugins/.
-
