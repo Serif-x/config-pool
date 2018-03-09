@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2018-03-07 11:05:52" build="180206">
+		<key name=".Vanilla" modified="2018-03-09 18:51:59" build="180206">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
@@ -140,8 +140,8 @@
 			<value name="bgOperation" type="hex" data="00"/>
 			<value name="bgPluginAllowed" type="hex" data="01"/>
 			<value name="AlphaValue" type="hex" data="FF"/>
-			<value name="AlphaValueSeparate" type="hex" data="00"/>
-			<value name="AlphaValueInactive" type="hex" data="FF"/>
+			<value name="AlphaValueSeparate" type="hex" data="01"/>
+			<value name="AlphaValueInactive" type="hex" data="D9"/>
 			<value name="UserScreenTransparent" type="hex" data="00"/>
 			<value name="ColorKeyTransparent" type="hex" data="00"/>
 			<value name="ColorKeyValue" type="dword" data="00010101"/>
@@ -150,7 +150,7 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd X" type="long" data="849"/>
+			<value name="ConWnd X" type="long" data="753"/>
 			<value name="ConWnd Y" type="long" data="329"/>
 			<value name="LastMonitor" type="string" data="0,0,1920,1040"/>
 			<value name="ConWnd Width" type="dword" data="0000005e"/>
