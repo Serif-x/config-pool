@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2018-03-09 18:51:59" build="180206">
+		<key name=".Vanilla" modified="2018-06-18 23:18:40" build="180206">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
-			<value name="StartTasksName" type="string" data="{Shells::PowerShell}"/>
+			<value name="StartTasksName" type="string" data="{Shells::cmd 64}"/>
 			<value name="StartFarFolders" type="hex" data="00"/>
 			<value name="StartFarEditors" type="hex" data="00"/>
 			<value name="StartCreateDelay" type="ulong" data="100"/>
@@ -118,7 +118,7 @@
 			<value name="Multi.SplitWidth" type="hex" data="04"/>
 			<value name="Multi.SplitHeight" type="hex" data="04"/>
 			<value name="KeyboardHooks" type="hex" data="01"/>
-			<value name="FontName" type="string" data="Microsoft YaHei Mono"/>
+			<value name="FontName" type="string" data="Ubuntu Mono"/>
 			<value name="FontName2" type="string" data="Consolas"/>
 			<value name="FontAutoSize" type="hex" data="00"/>
 			<value name="FontSize" type="ulong" data="16"/>
@@ -141,7 +141,7 @@
 			<value name="bgPluginAllowed" type="hex" data="01"/>
 			<value name="AlphaValue" type="hex" data="FF"/>
 			<value name="AlphaValueSeparate" type="hex" data="01"/>
-			<value name="AlphaValueInactive" type="hex" data="D9"/>
+			<value name="AlphaValueInactive" type="hex" data="D3"/>
 			<value name="UserScreenTransparent" type="hex" data="00"/>
 			<value name="ColorKeyTransparent" type="hex" data="00"/>
 			<value name="ColorKeyValue" type="dword" data="00010101"/>
@@ -150,11 +150,11 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd X" type="long" data="753"/>
-			<value name="ConWnd Y" type="long" data="329"/>
+			<value name="ConWnd X" type="long" data="1010"/>
+			<value name="ConWnd Y" type="long" data="438"/>
 			<value name="LastMonitor" type="string" data="0,0,1920,1040"/>
-			<value name="ConWnd Width" type="dword" data="0000005e"/>
-			<value name="ConWnd Height" type="dword" data="00000019"/>
+			<value name="ConWnd Width" type="dword" data="00000071"/>
+			<value name="ConWnd Height" type="dword" data="0000001d"/>
 			<value name="16bit Height" type="ulong" data="0"/>
 			<value name="QuakeStyle" type="hex" data="00"/>
 			<value name="Restore2ActiveMon" type="hex" data="00"/>
@@ -168,7 +168,7 @@
 			<value name="HideCaptionAlwaysDisappear" type="ulong" data="2000"/>
 			<value name="DownShowHiddenMessage" type="hex" data="00"/>
 			<value name="DownShowExOnTopMessage" type="hex" data="00"/>
-			<value name="ConsoleFontName" type="string" data="新宋体"/>
+			<value name="ConsoleFontName" type="string" data="Consolas"/>
 			<value name="ConsoleFontWidth" type="long" data="3"/>
 			<value name="ConsoleFontHeight" type="long" data="5"/>
 			<value name="DynamicBufferHeight" type="hex" data="01"/>
@@ -257,7 +257,7 @@
 			<value name="StatusBar.Color.Light" type="dword" data="00e3f6fd"/>
 			<value name="StatusBar.Color.Dark" type="dword" data="00a1a193"/>
 			<value name="StatusBar.Hide.VCon" type="hex" data="00"/>
-			<value name="StatusBar.Hide.CapsL" type="hex" data="01"/>
+			<value name="StatusBar.Hide.CapsL" type="hex" data="00"/>
 			<value name="StatusBar.Hide.NumL" type="hex" data="00"/>
 			<value name="StatusBar.Hide.ScrL" type="hex" data="01"/>
 			<value name="StatusBar.Hide.VisL" type="hex" data="01"/>
@@ -276,28 +276,28 @@
 			<value name="StatusBar.Hide.StyleEx" type="hex" data="01"/>
 			<value name="StatusBar.Hide.hFore" type="hex" data="01"/>
 			<value name="StatusBar.Hide.hFocus" type="hex" data="01"/>
-			<value name="StatusBar.Hide.Zoom" type="hex" data="01"/>
+			<value name="StatusBar.Hide.Zoom" type="hex" data="00"/>
 			<value name="StatusBar.Hide.Dpi" type="hex" data="01"/>
 			<value name="StatusBar.Hide.ABuf" type="hex" data="00"/>
 			<value name="StatusBar.Hide.CPos" type="hex" data="01"/>
 			<value name="StatusBar.Hide.CSize" type="hex" data="00"/>
-			<value name="StatusBar.Hide.BSize" type="hex" data="01"/>
+			<value name="StatusBar.Hide.BSize" type="hex" data="00"/>
 			<value name="StatusBar.Hide.CurX" type="hex" data="01"/>
 			<value name="StatusBar.Hide.CurY" type="hex" data="01"/>
 			<value name="StatusBar.Hide.CurS" type="hex" data="01"/>
-			<value name="StatusBar.Hide.CurI" type="hex" data="00"/>
+			<value name="StatusBar.Hide.CurI" type="hex" data="01"/>
 			<value name="StatusBar.Hide.CellI" type="hex" data="01"/>
 			<value name="StatusBar.Hide.ConEmuPID" type="hex" data="01"/>
 			<value name="StatusBar.Hide.ConEmuHWND" type="hex" data="01"/>
 			<value name="StatusBar.Hide.ConEmuView" type="hex" data="01"/>
 			<value name="StatusBar.Hide.Srv" type="hex" data="00"/>
 			<value name="StatusBar.Hide.SrvHWND" type="hex" data="01"/>
-			<value name="StatusBar.Hide.Transparency" type="hex" data="00"/>
-			<value name="StatusBar.Hide.New" type="hex" data="00"/>
+			<value name="StatusBar.Hide.Transparency" type="hex" data="01"/>
+			<value name="StatusBar.Hide.New" type="hex" data="01"/>
 			<value name="StatusBar.Hide.Sync" type="hex" data="00"/>
 			<value name="StatusBar.Hide.Proc" type="hex" data="00"/>
 			<value name="StatusBar.Hide.Title" type="hex" data="01"/>
-			<value name="StatusBar.Hide.Time" type="hex" data="01"/>
+			<value name="StatusBar.Hide.Time" type="hex" data="00"/>
 			<value name="StatusBar.Hide.Resize" type="hex" data="00"/>
 			<value name="Tabs" type="hex" data="01"/>
 			<value name="TabsLocation" type="hex" data="00"/>
@@ -593,8 +593,8 @@
 				<value name="DndRKey" type="hex" data="A2"/>
 				<value name="WndDragKey" type="dword" data="00121101"/>
 			</key>
-			<key name="Tasks" modified="2018-03-07 10:40:36" build="180206">
-				<value name="Count" type="long" data="12"/>
+			<key name="Tasks" modified="2018-06-18 23:18:40" build="180206">
+				<value name="Count" type="long" data="13"/>
 				<key name="Task1" modified="2018-03-07 10:40:36" build="180206">
 					<value name="Name" type="string" data="{Shells::cmd}"/>
 					<value name="Flags" type="dword" data="00000002"/>
@@ -632,7 +632,16 @@
 					<value name="Cmd1" type="string" data='&gt; "%windir%\system32\cmd.exe" /k ""%ConEmuBaseDir%\CmdInit.cmd" &amp; echo This is Native cmd.exe"'/>
 					<value name="Cmd2" type="string" data='"%windir%\syswow64\cmd.exe" /k ""%ConEmuBaseDir%\CmdInit.cmd" &amp; echo This is 32 bit cmd.exe -new_console:s50V"'/>
 				</key>
-				<key name="Task5" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task5" modified="2018-06-18 23:18:40" build="180206">
+					<value name="Name" type="string" data="{Shells::cmd 64}"/>
+					<value name="Flags" type="dword" data="00000004"/>
+					<value name="Hotkey" type="dword" data="00000000"/>
+					<value name="GuiArgs" type="string" data=""/>
+					<value name="Active" type="long" data="1"/>
+					<value name="Count" type="long" data="1"/>
+					<value name="Cmd1" type="string" data='&gt; "%windir%\syswow64\cmd.exe" /k "%ConEmuBaseDir%\CmdInit.cmd"'/>
+				</key>
+				<key name="Task6" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Shells::PowerShell}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -641,7 +650,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data="powershell.exe"/>
 				</key>
-				<key name="Task6" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task7" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Shells::PowerShell (Admin)}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -650,7 +659,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data="powershell.exe -new_console:a"/>
 				</key>
-				<key name="Task7" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task8" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Bash::Git bash}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -659,7 +668,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='set "PATH=%ProgramFiles%\Git\usr\bin;%PATH%" &amp; "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=%ConEmuBaseDirShort%\conemu-msys2-64.exe /usr/bin/bash.exe -l -i -new_console:p'/>
 				</key>
-				<key name="Task8" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task9" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Bash::Msys2-64}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -668,7 +677,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='set CHERE_INVOKING=1 &amp; set "PATH=%ConEmuDir%\..\..\..\msys64\usr\bin;%PATH%" &amp; %ConEmuBaseDirShort%\conemu-msys2-64.exe -new_console:p %ConEmuDir%\..\..\..\msys64\usr\bin\bash.exe --login -i -new_console:C:"%ConEmuDir%\..\..\..\msys64\msys2.ico"'/>
 				</key>
-				<key name="Task9" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task10" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Helper::Show ANSI colors}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -677,7 +686,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='cmd.exe /k type "%ConEmuBaseDir%\Addons\AnsiColors16t.ans" -cur_console:n'/>
 				</key>
-				<key name="Task10" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task11" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{SDK::VS 14.0 x86 tools prompt}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -686,7 +695,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='cmd /k ""%ConEmuDrive%\Program Files (x86)\Microsoft Visual Studio 14.0\VC\vcvarsall.bat"" x86 -new_console:t:"VS 14.0" -new_console:C:"%CommonProgramFiles(x86)%\microsoft shared\MSEnv\VSFileHandler.dll,33"'/>
 				</key>
-				<key name="Task11" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task12" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{SDK::VS 14.0 x64 tools prompt}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -695,7 +704,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='cmd /k ""%ConEmuDrive%\Program Files (x86)\Microsoft Visual Studio 14.0\VC\vcvarsall.bat"" x64 -new_console:t:"VS 14.0" -new_console:C:"%CommonProgramFiles(x86)%\microsoft shared\MSEnv\VSFileHandler.dll,33"'/>
 				</key>
-				<key name="Task12" modified="2018-03-07 10:40:36" build="180206">
+				<key name="Task13" modified="2018-06-18 23:18:40" build="180206">
 					<value name="Name" type="string" data="{Tools::Chocolatey (Admin)}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -711,7 +720,6 @@
 			<key name="Colors" modified="2018-03-07 10:40:36" build="180206">
 				<value name="Count" type="long" data="0"/>
 			</key>
-			<value name="CmdLineHistory" type="multi"/>
 		</key>
 	</key>
 </key>
